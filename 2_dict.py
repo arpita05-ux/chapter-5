@@ -9,5 +9,5 @@ print(marks.keys()) #it print key of the marks like Ram ,Arpit,0 etc.
 print(marks.values()) #it print value of the marks like 90 ,100,happy etc.
 
 
-marks.update({"Arpit": 89}) # that show dictionary is mutable
+marks.update({"Arpit": 89 , "sika": 8}) # that show dictionary is mutable, we can add anything and it will change in main dict. 
 print(marks) 
